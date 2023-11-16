@@ -1,5 +1,6 @@
 # 20231113
 HMC SW검증이론
+파일비번 : HMC20231113
 
 # 다운로드 링크
 - Jenkins: https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable
